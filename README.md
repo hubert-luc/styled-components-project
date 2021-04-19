@@ -1,1 +1,1 @@
-# Getting Started with styled components
+# Getting Started with styled-components
